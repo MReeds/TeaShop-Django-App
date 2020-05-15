@@ -1,1 +1,1 @@
-from teaapp.views import tea_list
+from .views import *

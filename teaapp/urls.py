@@ -1,6 +1,5 @@
 from django.urls import path
-from .views import *
-
+from .views import tea_list
 app_name = "teaapp"
 
 urlpatterns = [
